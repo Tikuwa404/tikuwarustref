@@ -1,6 +1,12 @@
 ---
 title: tikuwarustref
 ---
+# Rustリファレンス
+このサイトはtikuwa404が個人的に欲しかったRustの情報を書き込むサイトです。
+# 各ジャンルへのリンク
+[このサイトについて](about-pages-moc)
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# ページのフォーマットについて
+[ページのフォーマット](format-of-pages)を参照してください。
+
+# 参考文献
