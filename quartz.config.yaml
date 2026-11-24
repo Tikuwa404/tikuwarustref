@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ja-JP
-  baseUrl: tikuwa404.github.io
+  baseUrl: tikuwa404.github.io/tikuwarustref
   ignorePatterns:
     - private
     - templates
@@ -87,6 +87,8 @@ plugins:
     layout:
       position: right
       priority: 30
+    options:
+      maxDepth: 1
   - source: "@quartz-community/description"
     enabled: true
     order: 70
@@ -152,7 +154,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
